@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .top:hover{
+  background-color: goldenrod;
+  }
+  .botton{
+    background-color: #cb8034;
+  }
+  .space{
+    margin-block-start: 20px;
+    margin-block-end: 20px;
+  }
